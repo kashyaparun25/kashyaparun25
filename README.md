@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-#### Hi there! I'm **Arun Kashyap**, a passionate developer, AI enthusiast, and data scientist. I love building scalable AI applications, exploring ML architectures, and implementing data-driven solutions.
+### Hi there! I'm **Arun Kashyap**, a passionate developer, AI enthusiast, and data scientist. I love building scalable AI applications, exploring ML architectures, and implementing data-driven solutions.
 
 ### 💻 Programming & AI Tools
 <p align="left">
