@@ -48,5 +48,5 @@
 
 <!-- Feel free to connect with me -->
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- Email: youremail@example.com
+- [LinkedIn](https://www.linkedin.com/in/hv-arunkashyap/)
+- Email: hvarunkashyap@gmail.com
