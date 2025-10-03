@@ -2,7 +2,7 @@
 
 # 👋 Arun Kashyap
 
-### Senior AI Engineer • Cloud Architect • Full-Stack Developer
+### Senior AI Engineer • Data Scientist • AI Consultant
 
 *Building intelligent systems that scale*
 
