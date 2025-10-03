@@ -1,52 +1,100 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Arun Kashyap — AI Engineer & Data Scientist
 
-### Hi there! I'm **Arun Kashyap**, a passionate developer, AI enthusiast, and data scientist. I love building scalable AI applications, exploring ML architectures, and implementing data-driven solutions.
-
-### 💻 Programming & AI Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+<p align="center">
+  <img alt="hero" src="https://raw.githubusercontent.com/kashyaparun25/kashyaparun25/master/assets/hero-placeholder.png" width="760" />
 </p>
 
-### 📊 Data Science & Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+## 🚀 Quick Intro
+**Arun Kashyap** — I build scalable AI products, ship ML systems, and turn messy data into actionable intelligence. Founder of **Historacle**, creator of conversational & generative AI experiences, and a relentless tinkerer with models, pipelines, and product UX.
+
+- 🔭 Currently: Improving Historacle’s LLM stack and product performance
+- 🎓 Education: M.S. in Data Science (2025)
+- 📫 Email: `hvarunkashyap@gmail.com` • [LinkedIn](https://www.linkedin.com/in/hv-arunkashyap/)
+
+---
+
+## ✨ Highlights (quick receipts)
+- Built production conversational AI systems (RAG, LLM orchestration, multi-agent debates)
+- Deployed ML pipelines on **AWS** and **GCP** with CI/CD and monitoring
+- Worked on high-scale AML detection using big-data architectures
+- Built a RoBERTa-based mental-health chatbot and an AI fitness tracker
+
+---
+
+## 🧭 AI Journey — Timeline
+
+```mermaid
+timeline
+    title Arun's AI Journey
+    2019 : Started learning Python & basic ML
+    2020 : Scikit-learn projects + first TensorFlow models
+    2021 : NLP experiments with Hugging Face Transformers
+    2022 : Big Data (PySpark) + Cloud deployment practice
+    2023 : Architected conversational AI & RAG systems
+    2024 : Launched Historacle MVP — shipped multi-agent debates
+    2025 : Master’s in Data Science — focused on production ML systems
+```
+
+---
+
+## 🚀 Featured Projects (interactive cards)
+
+<p align="center">
+  <a href="https://github.com/kashyaparun25/Historacle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashyaparun25&repo=Historacle&theme=radical" />
+  </a>
+  <a href="https://github.com/kashyaparun25/mental-health-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashyaparun25&repo=mental-health-chatbot&theme=radical" />
+  </a>
 </p>
 
-### ☁️ Big Data & Cloud Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<p align="center">
+  <a href="https://github.com/kashyaparun25/ai-fitness-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashyaparun25&repo=ai-fitness-tracker&theme=radical" />
+  </a>
+  <a href="https://github.com/kashyaparun25/aml-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kashyaparun25&repo=aml-detection&theme=radical" />
+  </a>
 </p>
 
-### 🛠️ Software Development
-<p align="left">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Integration-4A154B?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile-83B81A?style=for-the-badge&logo=agile&logoColor=white" />
+---
+
+## 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyaparun25&theme=radical" alt="streak"/>
 </p>
 
-<!-- GitHub stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kashyaparun25&theme=radical" />
+</p>
+
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashyaparun25&show_icons=true&theme=radical)
-
-<!-- Top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashyaparun25&layout=compact&theme=radical)
 
-<!-- Feel free to connect with me -->
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hv-arunkashyap/)
-- Email: hvarunkashyap@gmail.com
+---
+
+## 🧰 Skills & Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,huggingface,langchain,aws,gcp,docker,fastapi,postgresql,mysql,git" />
+</p>
+
+**Areas:** Deep learning, NLP, LLM systems, RAG, model fine-tuning, prompt engineering, data engineering, MLOps, model monitoring.
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hv-arunkashyap/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hvarunkashyap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+*README generated with love, sarcasm, and a caffeine dependency.*
